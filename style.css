@@ -1,0 +1,41 @@
+.header {
+    display: flex;
+    padding-left: 25vw;
+    background-color: #1F2937;
+    margin: -10px -10px 0px -10px;
+    
+}
+
+.header-text {
+    color: #F9FAF8;
+}
+
+.secondary-text-color {
+    color: #E5E7EB;
+}
+
+img {
+    width: 200px;
+    margin-left: auto;
+    margin-right: 25vw;
+}
+
+ul {
+    display: flex;
+    margin-left: auto;
+    align-items: center;
+    margin-right: 25vw;
+    gap: 16px;
+}
+
+li {
+    list-style-type: none;
+    
+}
+
+.top-page {
+    display: flex;
+    padding-left: 25vw;
+    background-color: #1F2937;
+    margin: 0px -10px;
+}
