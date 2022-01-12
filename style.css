@@ -43,6 +43,10 @@ li {
     
 }
 
+.top-page img {
+    margin-right: 25vw;
+}
+
 button {
     width: 100px;
     height: 30px;
@@ -103,9 +107,9 @@ button {
 
 .citation {
     margin-left: auto;
-    margin-right: 35vw;
+    margin-right: 30vw;
+    margin-top: -20px;
 }
-
 .bottom-page {
     display: flex;
     justify-content: center;
@@ -116,7 +120,7 @@ button {
 .blue-box {
     background-color: #3882F6;
     width: 75vw;
-    height: 15vh;
+    height: 12vh;
     border-radius: 10px;
 
     display: flex;
