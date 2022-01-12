@@ -157,6 +157,7 @@ button {
 .blue-box button {
     margin-left: auto;
     margin-right: 150px;
+    border-style: solid;
 }
 .footer {
     display: flex;
