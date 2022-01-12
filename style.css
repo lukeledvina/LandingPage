@@ -47,8 +47,20 @@ li {
 
 .box-container {
     display: flex;
+    justify-content: center;
+    gap: 20px;
 }
 
 .middle-header {
     text-align: center;
 }
+
+.gray-square {
+    border-radius: 15px;
+    width: 150px;
+}
+
+.rounded-box {
+    width: 150px;
+}
+
