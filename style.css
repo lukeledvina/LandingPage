@@ -28,7 +28,7 @@ ul {
     gap: 16px;
 }
 
-li {
+li { 
     list-style-type: none;
     
 }
@@ -38,4 +38,17 @@ li {
     padding-left: 25vw;
     background-color: #1F2937;
     margin: 0px -10px;
+}
+
+.middle-page {
+    display: flex;
+    flex-direction: column;
+}
+
+.box-container {
+    display: flex;
+}
+
+.middle-header {
+    text-align: center;
 }
