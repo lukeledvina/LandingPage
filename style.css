@@ -12,6 +12,11 @@ body {
     
 }
 
+a {
+    text-decoration: none;
+    color:#ec3232;
+}
+
 .header-text {
     color: #F9FAF8;
 }
